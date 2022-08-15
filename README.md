@@ -1,6 +1,5 @@
+<h1>Wiki</h1>
+<p>Understand how to build on the infrastructure</p>
 
-<div align="center">
-  <h1>Wiki</h1>
-  <p>Understand how to build on the infrastructure</p>
-  <p>@NovaLabs</p>
-</div>
+<a href="https://github.com/Nova-DevTeam/wikiwiki">Deep dive into Nova</a>
+
